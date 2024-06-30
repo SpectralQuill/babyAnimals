@@ -1,0 +1,2 @@
+This was meant for mobile device usage. I made it for my brother when he was around 3-4 years old to learn animal
+names. Take note that the audio of animal names cannot be read on all types of devices.
